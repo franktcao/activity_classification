@@ -1,6 +1,6 @@
 # Bitcoin Prediction through Classification
 
-**Hypothesis** : Is there a way to use data science to leverage the predictability of Bitcoin Pricing?
+**Hypothesis**: Is there a way to use data science to leverage the predictability of Bitcoin Pricing?
 
 **Problem Statement**: High Frequency Trading often uses machine learning algorithms to track pricing of assets that are part of the largest index funds. The complexities that come from pricing certain assets is figuring out the right model to track several different features that can help in the long-term predictability of assets. Since Bitcoin is new to the trading world and instead of investing in company’s growth, we are looking at the changes in prices of crypto currencies.
 
